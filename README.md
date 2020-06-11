@@ -1,2 +1,2 @@
 # easychatbot
-chatbot using enumerate function
+open the chatbot.py
